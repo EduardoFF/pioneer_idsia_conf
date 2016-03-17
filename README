@@ -1,0 +1,13 @@
+files to be edited
+
+/etc/hostname
+/etc/hosts
+/etc/network/interfaces
+/etc/hostapd.conf
+
+install hostapd
+
+to remove starting xserver at boot
+
+GRUD_CMD_LINUX_DEFAULT="text nomodeset"
+sudo update-grub
